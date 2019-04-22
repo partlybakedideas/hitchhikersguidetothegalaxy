@@ -20,4 +20,5 @@
 *In fact there are three freely convertible currencies in the Galaxy, but none of them count. The Altarian dollar has recently collapsed, the Flainian Pobble Bead is only exchangeadle for other Flainian Pobble Beads, And the Triganic Pu has its own very special problems. Its exchange rate of eight Ningis to one Pu was simple enought, but since a Ningi is a triangular rubber coin six thousand eight hundred miles along each side, no one has ever collected enough to own one Pu. Ningis are not negotiable currency, because the Galactibanks refuse to deal in fiddling small change. From this basic premise it is very simple to prove that the Galactibanks are also the product of a deranged imagination.*
 
 **6 Art:** None.
+
 *The function of art is to hold the mirror up to nature, and there simply isn't a mirror big enought - see point one.*

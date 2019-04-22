@@ -10,4 +10,4 @@ In the book **the hitchiker's guide to the galaxy** by Douglas Adams, Ford Prefe
 
 How it will work
 ===
-To start, we are going to make a bunch dot.txt files, load them up on a raspberry pi zero. It will look very makeshift, and it will say "don't panic" in large, friendly letters.
+To start, we are going to make a bunch dot.txt files, load them up on a raspberry pi zero. It will look very makeshift, and it will say "DON'T PANIC" in large, friendly letters.

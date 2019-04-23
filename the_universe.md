@@ -1,5 +1,5 @@
 **1 Area:** infinite.
-*The Hitchhiker's guide to the Galaxy offers this definition of the word *'infinite'.*
+*The Hitchhiker's guide to the Galaxy offers this definition of the word 'infinite'.*
 
 > infinite:  Bigger than that, in fact, really amazingly immense, a totally stunnig size, real 'wow, that's big' time. Infinity is just so big by comparison bigness itself looks really quite small. Gigantic multiplied by colossal multiplied by staggeringly huge is the sort is the of concept we're trying to get across here.
 

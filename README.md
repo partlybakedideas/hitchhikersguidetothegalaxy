@@ -11,3 +11,7 @@ In the book **the hitchiker's guide to the galaxy** by Douglas Adams, Ford Prefe
 How it will work
 ===
 To start, we are going to make a bunch dot.txt files, load them up on a raspberry pi zero. It will look very makeshift, and it will say "DON'T PANIC" in large, friendly letters.
+
+
+
+![What it may look like](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fhitchhikers%2Fimages%2Fe%2Fe1%2FGuide.jpg%2Frevision%2Flatest%3Fcb%3D20080505045130&f=1)

@@ -23,3 +23,8 @@ We have two options to contributing. One for writing down *the guide*'s existing
  * Write something appropriate for anyone.
   
 </details>
+
+
+| :bug:   | :bulb: |
+|---------|--------|
+| if you find a typo, take it out and start a pull request. | Got an idea? just write it down and start a pull request.|

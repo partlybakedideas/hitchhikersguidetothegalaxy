@@ -1,6 +1,6 @@
 The Bistromathic Drive is a wonderful new method of crossing vast interstellar distances without all that dangerous mucking about with Improbability Factors.
 
-Bistromathics itself is simply a revolutionary new way of understanding the behaviour of numbers. Just as Einstein observed tha time was not an absolute but depended on the observer's moment in space, and that space was not an absolut but depended on the observer's movement in time, so it is now realized that numbers are not absolute, but depended on he observer's movement in restaurants.
+Bistromathics itself is simply a revolutionary new way of understanding the behaviour of numbers. Just as Einstein observed tha time was not an absolute but depended on the observer's moment in space, and that space was not an absolute but depended on the observer's movement in time, so it is now realized that numbers are not absolute, but depended on he observer's movement in restaurants.
 
 The first non-absolute number is the number of people for whom the table is reserved. Ths will vary during the course of the first three telephone calls to the restaurant, and then bear no apparent relation to the number of people who actually turn up, or the number of people who subsequently join them after the show/party/gig, or to the number of people who leave when they see who else has turned up. 
 

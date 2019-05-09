@@ -28,3 +28,13 @@ We have two options to contributing. One for writing down *the guide*'s existing
 | :bug:   | :bulb: |
 |---------|--------|
 | if you find a typo, take it out and start a pull request. | Got an idea? just write it down and start a pull request.|
+
+<br>
+
+ None of our researchers in any field are allowed to accept any kind of discount, service ortreatment of any kind in return for editorial favors unless:
+
+ * they have made a bona fide attempt to pay for a service in the normal way;
+ 
+ * their lives are in danger; or 
+ 
+ * they really want to.

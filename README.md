@@ -15,3 +15,7 @@ To start, we are going to make a bunch dot.txt files, load them up on a raspberr
 
 
 ![What it may look like](https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fhitchhikers%2Fimages%2Fe%2Fe1%2FGuide.jpg%2Frevision%2Flatest%3Fcb%3D20080505045130&f=1)
+
+|Maintainers |
+|-----------|
+|[@partlybakedideas](https://github.com/partlybakedideas)|

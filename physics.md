@@ -1,0 +1,1 @@
+On one little known day in Dranken, a small team of researchers at AltiFACS labs proved the theory of physics. The researchers proved the theory by getting a portal (at the time called the door of Glen) and throwing a red-ish ball with a stem coming out of it into the portal. 
